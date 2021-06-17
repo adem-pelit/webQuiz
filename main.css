@@ -1,0 +1,100 @@
+body{
+  font-family: 'Consolas';
+  background-color: #AAA;
+}
+
+/*h1 {
+  text-align: center;
+}*/
+.msg {
+  margin: 10px;
+  /*
+  margin-left: auto;
+  margin-right: auto;
+  */
+  border-radius: 20px 20px;
+  background: #FFF;
+  padding: 20px;
+  width: 20%-20px;
+  align-items: center;
+}
+
+.altMsg {
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px 20px;
+  background: rgb(230, 230, 230);
+  padding: 20px;
+  width: 100%-margin;
+  
+  align-items: center;
+}
+
+textarea{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border: 0;
+  border-radius: 10px 10px;
+  background: rgb(230, 230, 230);
+}
+.butonPass{
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border: 0;
+  border-radius: 10px 10px;
+  background: rgb(255, 0, 0);
+  height: 50px;
+}
+.btnLeft{
+  margin: 10px;
+  width: 45%;
+  border: 0;
+  border-radius: 10px 10px;
+  background: rgb(81, 255, 0);
+  height: 50px;
+}
+.btnRight{
+  margin: 10px;
+  width: 45%;
+  border: 0;
+  border-radius: 10px;
+  background: rgb(255, 0, 0);
+  height: 50px;
+}
+
+.btn{
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border: 0;
+  border-radius: 10px 10px;
+  background: rgb(20, 20, 20);
+  height: 50px;
+  color: white;
+}
+
+.girdi{
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 30px;
+  border: 0;
+  border-radius: 10px 10px;
+  background: rgb(230, 230, 230);
+}
+
+a:link {
+  text-decoration:none;
+  color:rgb(0, 0, 0);
+}
+
+a:visited {
+  text-decoration:none;
+  color:rgb(0, 0, 0);
+}
